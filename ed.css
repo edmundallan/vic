@@ -1,0 +1,140 @@
+.main{
+  display: flex;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+
+body{
+    padding:0;
+    margin:0;
+    }
+    
+  
+    .shape{
+    width:500px;
+    height:500px;
+    background-color:rgb(75, 112, 192);
+    border-radius:; 
+    color:white;
+    text-align: center;
+    padding-top:50px;
+    background:url(icon3.jpg);
+    
+    
+    }
+    .right{
+        width:500px;
+        height:500px;
+        background-color:;
+        border-radius:50px; 
+        text-align:center;
+        padding-top: 50px;
+        
+
+}   
+P {padding-left: 4px;padding-top: 4px; font-size: 18px;
+}          
+    
+
+  .login-box input[type="submit"]
+  {
+    width: 90%;
+    height: 40px;
+    background: rgba(58, 58, 250, 0.801);
+    color:#fff;
+    font-size: 18px;
+    border-radius: 20px;
+    
+    
+  }
+
+    .login-box input[type="submit"]:hover
+	{
+	cursor:pointer;
+	background:rgb(109, 109, 240);
+  color:#000;
+  
+	}
+   .login-box a{
+   text-decoration:none;
+   font-size: 14px;
+   color:#fff;
+   border: blue;
+   }
+  
+
+   .login-box input[type="button"]
+   {
+     width: 90%;
+     height: 40px;
+     color:rgb(67, 67, 236);
+     font-size: 18px;
+     border-radius: 20px;
+     border-color: blue;
+   }
+     .login-box input[type="button"]:hover
+     {
+     cursor:pointer;
+     background:rgb(109, 109, 240);
+     color:#000;
+     }
+    .login-box a{
+    text-decoration:none;
+    font-size: 14px;
+    color:#fff;
+    }
+
+    .twitter{
+      width: 50px;
+      height: 50px;
+      padding-left:-200px
+                
+ } 
+ .leftjoin{
+   text-align: left;
+   padding-left: 50px;
+ }
+
+ 
+  .login-box1 input[type="text"]
+  {
+    width: 35%;
+    height: 30px;
+    background:  rgba(219, 219, 223, 0.801);
+    color:#fff;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    border-color: #fff;
+  
+ }
+
+ .login-box1 input[type="password"]
+  {
+    width: 35%;
+    height: 30px;
+    background: rgba(219, 219, 223, 0.801);
+    color:#fff;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    border-color: #fff;
+  
+ }
+.forgot{
+  padding-left: 60px;
+}
+
+.login-box1 input[type="button"]
+   {
+     width: 15%;
+     height: 30px;
+     color:rgb(67, 67, 236);
+     font-size: 18px;
+     border-radius: 20px;
+     border-color: blue;
+   }
+
+ 
+
